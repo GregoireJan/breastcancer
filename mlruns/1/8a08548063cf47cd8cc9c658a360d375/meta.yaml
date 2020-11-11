@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/8a08548063cf47cd8cc9c658a360d375/artifacts
+end_time: 1605097867698
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 8a08548063cf47cd8cc9c658a360d375
+run_uuid: 8a08548063cf47cd8cc9c658a360d375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605097866218
+status: 3
+tags: []
+user_id: gjan
