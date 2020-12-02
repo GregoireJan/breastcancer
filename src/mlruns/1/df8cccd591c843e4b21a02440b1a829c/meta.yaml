@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/gregoire.jan/OneDrive%20-%20Accenture/Documents/Projects/Deploy/breastcancer/src/mlruns/1/df8cccd591c843e4b21a02440b1a829c/artifacts
+end_time: 1606908878787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: df8cccd591c843e4b21a02440b1a829c
+run_uuid: df8cccd591c843e4b21a02440b1a829c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1606908872297
+status: 3
+tags: []
+user_id: gjan
